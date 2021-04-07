@@ -558,8 +558,8 @@
 
 // const users= [
 //     {name:"Onur", age:23},
-//     {name:"Beyza", age:24},
-//     {name:"Ballıçöreğim", age:24}
+//     {name:"Eray", age:19},
+//     {name:"Osman", age:21}
 // ];
 
 // const names = users.map(function(user){
